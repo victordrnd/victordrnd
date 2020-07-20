@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Durand</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
-- 💻 All of my projects are available at [https://victordurand.fr](https://victordurand.fr)
+- 💻 All of my projects are available at https://victordurand.fr
 
 - 📫 How to reach me **contact@victordurand.fr**
 
