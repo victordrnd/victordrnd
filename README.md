@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Durand</h1>
+<img src="https://github.com/victordrnd/victordrnd/blob/master/victordrnd.gif?raw=true" alt="react" width="" />
 <h3 align="center">A passionate fullstack developer from France</h3>
 - 💻 All of my projects are available at https://victordurand.fr
 
