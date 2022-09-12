@@ -5,7 +5,16 @@
 
 - 📫 How to reach me **contact@victordurand.fr**
 
+<h2> About Me </h2>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently studying at CPE Lyon in cyber security 
+  
+- 🌱 I’m currently learning Kubernetes and Rust
+  
+- 💬 Ask me about Java, Angular, Laravel, JavaScript
+  
 
 
 <p align="center">
