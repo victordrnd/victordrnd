@@ -1,5 +1,5 @@
 <img src="https://github.com/victordrnd/victordrnd/blob/master/victordrnd2.gif?raw=true" alt="react" width="" />
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate fullstack developer from Switzerland</h3>
 
 - 💻 All of my projects are available at https://victordurand.fr
 
@@ -9,7 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying at CPE Lyon in cyber security 
+- 🔭 I’m currently working at Lomabard Odier in Geneva 
   
 - 🌱 I’m currently learning Kubernetes and Rust
   
